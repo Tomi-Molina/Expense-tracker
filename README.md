@@ -21,7 +21,10 @@ A full-stack web application to manage personal expenses with secure authenticat
 
 ## 📸 Screenshots
 
-(Add screenshots here)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7505c735-18f4-4160-8e8e-d8fbc8cd3694" />
+
+<img width="1916" height="1080" alt="image" src="https://github.com/user-attachments/assets/388b6e63-d374-4872-96c7-3460ea0a4195" />
+
 
 ## ▶️ Run with Docker
 
